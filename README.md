@@ -1,2 +1,2 @@
-# javascript-algoritms
+# javascript-algorithms
 algorithms in javascript(solved)
